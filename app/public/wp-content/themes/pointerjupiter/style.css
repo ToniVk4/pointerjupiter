@@ -34,7 +34,7 @@ body {
     color: #fff;
     font-size: 55px;
     z-index: 10;
-    max-width: 400px;
+    max-width: 450px;
     text-align: center;
     font-weight: bold;
 }
@@ -45,6 +45,9 @@ body {
 .main-hero-excerpt{
     color: #fff;
     font-size: 20px;
+    z-index: 10;
+    text-align: center;
+    max-width: 420px;
 }
 title {
     display: block;
@@ -58,6 +61,7 @@ title {
     justify-content: space-between;
     max-width: 80%;
     margin: 0 auto;
+    min-height: 70px;
 }
 .featured-img{
     width: 100%;
@@ -92,4 +96,29 @@ title {
 color: rgb(23,26,23);
 font-size: 16px;
 font-weight: 500;
+}
+
+ul#primary-menu-list {
+    display: none;
+    background-color: #00D100;
+    position: absolute;
+    top: 86px;
+    right: 0;
+    z-index: 10;
+    width: 508px;
+    max-width: 700px;
+    float: right;
+    list-style: none;
+}
+ul#primary-menu-list a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 23px;
+   
+}
+ul#primary-menu-list li{
+    margin: 10px 0;
+}
+.menu-button-container {
+    text-align: end;
 }

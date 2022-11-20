@@ -18,7 +18,7 @@
     <?php if ( has_nav_menu( 'primary' ) ) : ?>
 	<nav id="" class="primary-nav" aria-label="<?php esc_attr_e( 'Primary menu', 'pointerjupiter' ); ?>">
 		<div class="menu-button-container">
-		
+         <a class="toggle-nav" href="#"><img src="/wp-content/uploads/2022/11/icons8-hamburger-32.png" alt=""></a>
 		</div>
 		<?php
 		wp_nav_menu(

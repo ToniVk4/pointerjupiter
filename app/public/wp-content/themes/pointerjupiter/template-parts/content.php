@@ -22,17 +22,17 @@
     <div class="sub-wrapper">
         <div class="sub-title">Our Mission</div>
         <div class="sub-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </div>
-        <div class="sub-btn"><a href="">Explore</a></div>
+        <div class="sub-btn"><a href="/our-mission">Explore</a></div>
     </div>
     <div class="sub-wrapper">
         <div class="sub-title">Take Action</div>
         <div class="sub-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </div>
-        <div class="sub-btn"><a href="">Explore</a></div>
+        <div class="sub-btn"><a href="/take-action">Explore</a></div>
     </div>
     <div class="sub-wrapper">
         <div class="sub-title">Knowledge Centre</div>
         <div class="sub-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </div>
-        <div class="sub-btn"><a href="">Explore</a></div>
+        <div class="sub-btn"><a href="/knowledge-centre">Explore</a></div>
     </div>
 </div>
 </article>
