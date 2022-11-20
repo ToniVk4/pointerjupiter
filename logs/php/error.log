@@ -1,0 +1,103 @@
+[20-Nov-2022 16:46:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 16:46:16 UTC] PHP Stack trace:
+[20-Nov-2022 16:46:16 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 16:46:16 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 16:46:16 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 16:46:16 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 16:46:16 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 17:21:59 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 17:21:59 UTC] PHP Stack trace:
+[20-Nov-2022 17:21:59 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 17:21:59 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 17:21:59 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 17:21:59 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 17:21:59 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 17:34:07 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 17:34:07 UTC] PHP Stack trace:
+[20-Nov-2022 17:34:07 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 17:34:07 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 17:34:07 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 17:34:07 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 17:34:07 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 17:49:57 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 17:49:57 UTC] PHP Stack trace:
+[20-Nov-2022 17:49:57 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 17:49:57 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 17:49:57 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 17:49:57 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 17:49:57 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 18:35:33 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 18:35:33 UTC] PHP Stack trace:
+[20-Nov-2022 18:35:33 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 18:35:33 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 18:35:33 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 18:35:33 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 18:35:33 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 18:41:49 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 18:41:49 UTC] PHP Stack trace:
+[20-Nov-2022 18:41:49 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 18:41:49 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 18:41:49 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 18:41:49 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 18:41:49 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 18:43:03 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 18:43:03 UTC] PHP Stack trace:
+[20-Nov-2022 18:43:03 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 18:43:03 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 18:43:03 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 18:43:03 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 18:43:03 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 18:48:17 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 18:48:17 UTC] PHP Stack trace:
+[20-Nov-2022 18:48:17 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 18:48:17 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 18:48:17 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 18:48:17 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 18:48:17 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 18:48:39 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[20-Nov-2022 18:48:39 UTC] PHP Stack trace:
+[20-Nov-2022 18:48:39 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:0
+[20-Nov-2022 18:48:39 UTC] PHP   2. do_action($hook_name = 'customize_controls_print_footer_scripts') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\customize.php:292
+[20-Nov-2022 18:48:39 UTC] PHP   3. WP_Hook->do_action($args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php:517
+[20-Nov-2022 18:48:39 UTC] PHP   4. WP_Hook->apply_filters($value = '', $args = [0 => '']) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:332
+[20-Nov-2022 18:48:39 UTC] PHP   5. WP_Customize_Widgets->output_widget_control_templates('') C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+[20-Nov-2022 19:03:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\functions.php on line 60 and exactly 2 expected in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\nav-menu.php:136
+Stack trace:
+#0 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\functions.php(60): register_nav_menu(Array)
+#1 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-settings.php(585): include('C:\\Users\\anton\\...')
+#2 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-config.php(91): require_once('C:\\Users\\anton\\...')
+#3 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-load.php(50): require_once('C:\\Users\\anton\\...')
+#4 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\anton\\...')
+#5 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-admin\index.php(10): require_once('C:\\Users\\anton\\...')
+#6 {main}
+  thrown in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\nav-menu.php on line 136
+[20-Nov-2022 19:21:47 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pj_enqueue_scripts" not found or invalid function name in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\script-loader.php(2180): do_action('wp_enqueue_scri...')
+#3 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php(308): wp_enqueue_scripts('')
+#4 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php(3043): do_action('wp_head')
+#7 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\header.php(13): wp_head()
+#8 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php(783): require_once('C:\\Users\\anton\\...')
+#9 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php(718): load_template('C:\\Users\\anton\\...', true, Array)
+#10 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#11 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php(8): get_header()
+#12 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\anton\\...')
+#13 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php(19): require_once('C:\\Users\\anton\\...')
+#14 C:\Users\anton\Local Sites\pointjupiter\app\public\index.php(17): require('C:\\Users\\anton\\...')
+#15 {main}
+  thrown in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\class-wp-hook.php on line 308
+[20-Nov-2022 20:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_title() in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php:14
+Stack trace:
+#0 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php(785): require()
+#1 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php(718): load_template('C:\\Users\\anton\\...', false, Array)
+#2 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php(11): get_template_part('template-parts/...')
+#4 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\anton\\...')
+#5 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php(19): require_once('C:\\Users\\anton\\...')
+#6 C:\Users\anton\Local Sites\pointjupiter\app\public\index.php(17): require('C:\\Users\\anton\\...')
+#7 {main}
+  thrown in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php on line 14
