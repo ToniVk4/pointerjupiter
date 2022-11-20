@@ -10,6 +10,15 @@ Text Domain: pj
 body {
     margin: 0;
 }
+.pj-hero-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 640px;
+    width: 100%;
+}
 .sub-btn {
     background-color: #7AAB32;
     width: 80px;
@@ -21,19 +30,53 @@ body {
     margin-top: 25px;
    
 }
+.main-hero-title {
+    color: #fff;
+    font-size: 55px;
+    z-index: 10;
+    max-width: 400px;
+    text-align: center;
+    font-weight: bold;
+}
 .sub-btn a{
     text-decoration: none;
     color: #fff;
+}
+.main-hero-excerpt{
+    color: #fff;
+    font-size: 20px;
+}
+title {
+    display: block;
+    font-size: 25px;
+    color: #000;
+    font-weight: bold;
+}
+.header-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 80%;
+    margin: 0 auto;
 }
 .featured-img{
     width: 100%;
     max-height: 640px;
     object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 .subpages-content {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 40px;
+    max-width: calc(80% + 40px);
+    margin: 0 auto;
+}
+#text {
+    color: #fff;
+    font-size: 20px;
 }
 .sub-wrapper{
     max-width: 280px;

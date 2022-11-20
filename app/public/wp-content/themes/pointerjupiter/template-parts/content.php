@@ -11,9 +11,12 @@
 <div class="pj-hero-container">
     <?php
     $img_value = get_the_post_thumbnail_url();
-    $title = get_the_title();   ?>
+    $title = get_the_title(); 
+    $content = get_the_content(); 
+    ?>
     <img class="featured-img" src="<?php echo $img_value?>">
     <div class="main-hero-title"><?php echo $title;  ?></div>
+    <div class="main-hero-excerpt"><?php echo $content;  ?></div>
 </div>
 <div class="subpages-content">
     <div class="sub-wrapper">

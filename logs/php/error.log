@@ -101,3 +101,74 @@ Stack trace:
 #6 C:\Users\anton\Local Sites\pointjupiter\app\public\index.php(17): require('C:\\Users\\anton\\...')
 #7 {main}
   thrown in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php on line 14
+[20-Nov-2022 21:17:19 UTC] PHP Warning:  Undefined variable $excerpt in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php on line 19
+[20-Nov-2022 21:17:19 UTC] PHP Stack trace:
+[20-Nov-2022 21:17:19 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:0
+[20-Nov-2022 21:17:19 UTC] PHP   2. require() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:17
+[20-Nov-2022 21:17:19 UTC] PHP   3. require_once() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php:19
+[20-Nov-2022 21:17:19 UTC] PHP   4. include() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php:106
+[20-Nov-2022 21:17:19 UTC] PHP   5. get_template_part($slug = 'template-parts/content', $name = *uninitialized*, $args = *uninitialized*) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php:11
+[20-Nov-2022 21:17:19 UTC] PHP   6. locate_template($template_names = [0 => 'template-parts/content.php'], $load = TRUE, $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php:204
+[20-Nov-2022 21:17:19 UTC] PHP   7. load_template($_template_file = 'C:\\Users\\anton\\Local Sites\\pointjupiter\\app\\public/wp-content/themes/pointerjupiter/template-parts/content.php', $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:718
+[20-Nov-2022 21:17:19 UTC] PHP   8. require() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:785
+[20-Nov-2022 21:20:12 UTC] PHP Warning:  Undefined variable $excerpt in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php on line 19
+[20-Nov-2022 21:20:12 UTC] PHP Stack trace:
+[20-Nov-2022 21:20:12 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:0
+[20-Nov-2022 21:20:12 UTC] PHP   2. require() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:17
+[20-Nov-2022 21:20:12 UTC] PHP   3. require_once() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php:19
+[20-Nov-2022 21:20:12 UTC] PHP   4. include() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php:106
+[20-Nov-2022 21:20:12 UTC] PHP   5. get_template_part($slug = 'template-parts/content', $name = *uninitialized*, $args = *uninitialized*) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php:11
+[20-Nov-2022 21:20:12 UTC] PHP   6. locate_template($template_names = [0 => 'template-parts/content.php'], $load = TRUE, $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php:204
+[20-Nov-2022 21:20:12 UTC] PHP   7. load_template($_template_file = 'C:\\Users\\anton\\Local Sites\\pointjupiter\\app\\public/wp-content/themes/pointerjupiter/template-parts/content.php', $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:718
+[20-Nov-2022 21:20:12 UTC] PHP   8. require() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:785
+[20-Nov-2022 21:23:50 UTC] PHP Warning:  Undefined variable $excerpt in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php on line 19
+[20-Nov-2022 21:23:50 UTC] PHP Stack trace:
+[20-Nov-2022 21:23:50 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:0
+[20-Nov-2022 21:23:50 UTC] PHP   2. require() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:17
+[20-Nov-2022 21:23:50 UTC] PHP   3. require_once() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php:19
+[20-Nov-2022 21:23:50 UTC] PHP   4. include() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php:106
+[20-Nov-2022 21:23:50 UTC] PHP   5. get_template_part($slug = 'template-parts/content', $name = *uninitialized*, $args = *uninitialized*) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php:11
+[20-Nov-2022 21:23:50 UTC] PHP   6. locate_template($template_names = [0 => 'template-parts/content.php'], $load = TRUE, $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php:204
+[20-Nov-2022 21:23:50 UTC] PHP   7. load_template($_template_file = 'C:\\Users\\anton\\Local Sites\\pointjupiter\\app\\public/wp-content/themes/pointerjupiter/template-parts/content.php', $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:718
+[20-Nov-2022 21:23:50 UTC] PHP   8. require() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:785
+[20-Nov-2022 21:23:53 UTC] PHP Warning:  Undefined variable $excerpt in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php on line 19
+[20-Nov-2022 21:23:53 UTC] PHP Stack trace:
+[20-Nov-2022 21:23:53 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:0
+[20-Nov-2022 21:23:53 UTC] PHP   2. require() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:17
+[20-Nov-2022 21:23:53 UTC] PHP   3. require_once() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php:19
+[20-Nov-2022 21:23:53 UTC] PHP   4. include() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php:106
+[20-Nov-2022 21:23:53 UTC] PHP   5. get_template_part($slug = 'template-parts/content', $name = *uninitialized*, $args = *uninitialized*) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php:11
+[20-Nov-2022 21:23:53 UTC] PHP   6. locate_template($template_names = [0 => 'template-parts/content.php'], $load = TRUE, $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php:204
+[20-Nov-2022 21:23:53 UTC] PHP   7. load_template($_template_file = 'C:\\Users\\anton\\Local Sites\\pointjupiter\\app\\public/wp-content/themes/pointerjupiter/template-parts/content.php', $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:718
+[20-Nov-2022 21:23:53 UTC] PHP   8. require() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:785
+[20-Nov-2022 21:28:46 UTC] PHP Warning:  Undefined variable $excerpt in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php on line 19
+[20-Nov-2022 21:28:46 UTC] PHP Stack trace:
+[20-Nov-2022 21:28:46 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:0
+[20-Nov-2022 21:28:46 UTC] PHP   2. require() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:17
+[20-Nov-2022 21:28:46 UTC] PHP   3. require_once() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php:19
+[20-Nov-2022 21:28:46 UTC] PHP   4. include() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php:106
+[20-Nov-2022 21:28:46 UTC] PHP   5. get_template_part($slug = 'template-parts/content', $name = *uninitialized*, $args = *uninitialized*) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php:11
+[20-Nov-2022 21:28:46 UTC] PHP   6. locate_template($template_names = [0 => 'template-parts/content.php'], $load = TRUE, $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php:204
+[20-Nov-2022 21:28:46 UTC] PHP   7. load_template($_template_file = 'C:\\Users\\anton\\Local Sites\\pointjupiter\\app\\public/wp-content/themes/pointerjupiter/template-parts/content.php', $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:718
+[20-Nov-2022 21:28:46 UTC] PHP   8. require() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:785
+[20-Nov-2022 21:30:40 UTC] PHP Warning:  Undefined variable $excerpt in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\template-parts\content.php on line 19
+[20-Nov-2022 21:30:40 UTC] PHP Stack trace:
+[20-Nov-2022 21:30:40 UTC] PHP   1. {main}() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:0
+[20-Nov-2022 21:30:40 UTC] PHP   2. require() C:\Users\anton\Local Sites\pointjupiter\app\public\index.php:17
+[20-Nov-2022 21:30:40 UTC] PHP   3. require_once() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php:19
+[20-Nov-2022 21:30:40 UTC] PHP   4. include() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php:106
+[20-Nov-2022 21:30:40 UTC] PHP   5. get_template_part($slug = 'template-parts/content', $name = *uninitialized*, $args = *uninitialized*) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php:11
+[20-Nov-2022 21:30:40 UTC] PHP   6. locate_template($template_names = [0 => 'template-parts/content.php'], $load = TRUE, $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php:204
+[20-Nov-2022 21:30:40 UTC] PHP   7. load_template($_template_file = 'C:\\Users\\anton\\Local Sites\\pointjupiter\\app\\public/wp-content/themes/pointerjupiter/template-parts/content.php', $require_once = FALSE, $args = []) C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:718
+[20-Nov-2022 21:30:40 UTC] PHP   8. require() C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php:785
+[20-Nov-2022 21:39:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twenty_twenty_one_get_icon_svg() in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\header.php:21
+Stack trace:
+#0 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php(783): require_once()
+#1 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template.php(718): load_template('C:\\Users\\anton\\...', true, Array)
+#2 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\index.php(8): get_header()
+#4 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\anton\\...')
+#5 C:\Users\anton\Local Sites\pointjupiter\app\public\wp-blog-header.php(19): require_once('C:\\Users\\anton\\...')
+#6 C:\Users\anton\Local Sites\pointjupiter\app\public\index.php(17): require('C:\\Users\\anton\\...')
+#7 {main}
+  thrown in C:\Users\anton\Local Sites\pointjupiter\app\public\wp-content\themes\pointerjupiter\header.php on line 21
