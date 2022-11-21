@@ -51,8 +51,14 @@ if(!function_exists('pj_setup')){
             'audio',
             'link',
             'quote',
-            'status');
+            'status',
+        );
         add_theme_support( 'post-formats', $post_formats);
+        
+        $args = array( //...
+            'supports' => array( 'editor', 'title', 'revisions', 'page-attributes', 'custom-fields' ),
+            //...
+            );
 
     }
 
@@ -96,5 +102,8 @@ function pj_enqueue_scripts() {
 }
 
 add_action( 'wp_enqueue_scripts', 'pj_enqueue_scripts' );
+
+
+
 
 
